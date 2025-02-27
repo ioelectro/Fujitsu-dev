@@ -34,31 +34,16 @@ Possibilities of emulator:
 - Viewing the contents of memory "on the fly"
 - Additional cables for connection in the debuggable system 
 
-attached Software description:
+Attached Software description:
 
-
-    Example of schema, description and program for intrasystem programming of microcontrollers of the family F2MC16LX (MB90Fxx) (1400 Kb)
-
-    The freshest Integrated Development Environment, version 3.6, for 8-bit MB89 family (30 Mb) New
-    To obtain a program key please fill out the form
-
-    The most recent Integrated Development Environment, version 3.6, for 16-bit MB90 family (24 Mb) New
-    To obtain a program key please fill out the form
-
-    The most recent Integrated Development Environment, Version 3.6, for 32-bit MB91 (30 Mb) New
-    To obtain a program key please fill out the form
-
-    Integrated development environment, version 3.5, for 16-bit MB90 family (20 Mb)
-    To obtain a program key please fill out the form
-
-    Integrated development environment, version 3.5, for 32 bit family MB91 (16 Mb)
-    To obtain a program key please fill out the form
-
-    Integrated development environment, version 3.4, for 8-bit family MB89 (40 Mb)
-    To obtain a program key please fill out the form
-
-    Integrated development environment, version 3.4, for 16 bit family MB90 (40 Mb)
-    To obtain a program key please fill out the form
-
-    Integrated development environment, version 3.4, for 32-bit family MB91 (36 Mb)
-    To receive the program key please fill in Form
+|File Name|Description|
+|-|-|
+|Fujitsu.zip|Example of schema, description and program for intrasystem programming of microcontrollers of the family F2MC16LX (MB90Fxx) (1400 Kb)|
+|08STAPACK300012FME01.exe|The freshest Integrated Development Environment, version 3.6, for 8-bit MB89 family (30 Mb) |
+|16STAPACK300018FME01.exe|The most recent Integrated Development Environment, version 3.6, for 16-bit MB90 family (24 Mb)|
+|FRSTAPACK600005FME01.exe|The most recent Integrated Development Environment, Version 3.6, for 32-bit MB91 (30 Mb)|
+|16bitstapack300017fme01.exe|Integrated development environment, version 3.5, for 16-bit MB90 family (20 Mb)|
+|frstapack600004fme01.exe|Integrated development environment, version 3.5, for 32 bit family MB91 (16 Mb)|
+|stapack8_300010fme02.exe|Integrated development environment, version 3.4, for 8-bit family MB89 (40 Mb)|
+|stapack300014fme02.exe|Integrated development environment, version 3.4, for 16 bit family MB90 (40 Mb)|
+|stapack32_300008fme01.exe|Integrated development environment, version 3.4, for 32-bit family MB91 (36 Mb)|
